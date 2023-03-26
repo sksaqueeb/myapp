@@ -1,0 +1,6 @@
+#/bin/bash
+yum install postgres
+pg.conf
+init.db
+start postgres
+status
